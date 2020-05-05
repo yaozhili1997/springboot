@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/scis-master/scis.iml" filepath="$USER_HOME$/Desktop/scis-master/scis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-01-hello/spring-boot-01-hello.iml" filepath="$PROJECT_DIR$/spring-boot-01-hello/spring-boot-01-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-01-init-02/spring-boot-01-init-02.iml" filepath="$PROJECT_DIR$/spring-boot-01-init-02/spring-boot-01-init-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-02-config/spring-boot-02-config.iml" filepath="$PROJECT_DIR$/spring-boot-02-config/spring-boot-02-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-02-config-02/spring-boot-02-config-02.iml" filepath="$PROJECT_DIR$/spring-boot-02-config-02/spring-boot-02-config-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-03-logging/spring-boot-03-logging.iml" filepath="$PROJECT_DIR$/spring-boot-03-logging/spring-boot-03-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-04-web/spring-boot-04-web.iml" filepath="$PROJECT_DIR$/spring-boot-04-web/spring-boot-04-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-05-bill/spring-boot-05-bill.iml" filepath="$PROJECT_DIR$/spring-boot-05-bill/spring-boot-05-bill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-06-servlet/spring-boot-06-servlet.iml" filepath="$PROJECT_DIR$/spring-boot-06-servlet/spring-boot-06-servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-07-tomcat/spring-boot-07-tomcat.iml" filepath="$PROJECT_DIR$/spring-boot-07-tomcat/spring-boot-07-tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-08-data-jdbc/spring-boot-08-data-jdbc.iml" filepath="$PROJECT_DIR$/spring-boot-08-data-jdbc/spring-boot-08-data-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-08-data-mybatis/spring-boot-08-data-mybatis.iml" filepath="$PROJECT_DIR$/spring-boot-08-data-mybatis/spring-boot-08-data-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-09-data-jpa/spring-boot-09-data-jpa.iml" filepath="$PROJECT_DIR$/spring-boot-09-data-jpa/spring-boot-09-data-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-10-bill/spring-boot-10-bill.iml" filepath="$PROJECT_DIR$/spring-boot-10-bill/spring-boot-10-bill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-11-task/spring-boot-11-task.iml" filepath="$PROJECT_DIR$/spring-boot-11-task/spring-boot-11-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-12-mail/spring-boot-12-mail.iml" filepath="$PROJECT_DIR$/spring-boot-12-mail/spring-boot-12-mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-13-cache/spring-boot-13-cache.iml" filepath="$PROJECT_DIR$/spring-boot-13-cache/spring-boot-13-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring_boot.iml" filepath="$PROJECT_DIR$/.idea/spring_boot.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/scis-master/yzl-scco.iml" filepath="$USER_HOME$/Desktop/scis-master/yzl-scco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yzl_scco/yzl_scco.iml" filepath="$PROJECT_DIR$/yzl_scco/yzl_scco.iml" />
+    </modules>
+  </component>
+</project>

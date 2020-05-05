@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: yaozhili
+Build-Jdk: 1.8.0_101
+Implementation-Title: spring-boot-07-tomcat
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.yzl
+Main-Class: ${start-class}
+

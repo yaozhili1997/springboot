@@ -1,0 +1,18 @@
+spring:
+  datasource:
+    username: root
+    password: 123456
+    url: jdbc:mysql://localhost:3306/jpa?serverTimezone=GMT%2B8
+      #mysql8版本以上指定新的驱动类
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+
+  jpa:
+    hibernate:
+      #会根据映射实体类自动创建后更新数据表
+      ddl-auto: update
+    #控制台打印sql语句
+    show-sql: true
+    #事务需要设置引擎，创建表时类型为innodb类型，如果不指定则是myISAM的表类型（不支持事务）
+    #database-platform: org.hibernate.dialect.MySQL57Dialect
+

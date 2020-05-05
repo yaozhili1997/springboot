@@ -1,0 +1,35 @@
+2020-04-20 16:49:34.459 >>> [main] >>> INFO  >>> com.yzl.springboot.SpringBoot03LoggingApplication >>> Starting SpringBoot03LoggingApplication on LAPTOP-NC69564O with PID 11756 (D:\java\java_code\spring_boot\spring-boot-03-logging\target\classes started by yaozhili in D:\java\java_code\spring_boot)
+2020-04-20 16:49:34.461 >>> [main] >>> DEBUG >>> com.yzl.springboot.SpringBoot03LoggingApplication >>> Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-20 16:49:34.462 >>> [main] >>> INFO  >>> com.yzl.springboot.SpringBoot03LoggingApplication >>> No active profile set, falling back to default profiles: default
+2020-04-20 16:49:35.153 >>> [main] >>> INFO  >>> o.s.boot.web.embedded.tomcat.TomcatWebServer >>> Tomcat initialized with port(s): 8080 (http)
+2020-04-20 16:49:35.161 >>> [main] >>> INFO  >>> org.apache.catalina.core.StandardService >>> Starting service [Tomcat]
+2020-04-20 16:49:35.162 >>> [main] >>> INFO  >>> org.apache.catalina.core.StandardEngine >>> Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-20 16:49:35.261 >>> [main] >>> INFO  >>> o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] >>> Initializing Spring embedded WebApplicationContext
+2020-04-20 16:49:35.261 >>> [main] >>> INFO  >>> org.springframework.web.context.ContextLoader >>> Root WebApplicationContext: initialization completed in 760 ms
+2020-04-20 16:49:35.383 >>> [main] >>> INFO  >>> o.s.scheduling.concurrent.ThreadPoolTaskExecutor >>> Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-20 16:49:35.510 >>> [main] >>> INFO  >>> o.s.boot.web.embedded.tomcat.TomcatWebServer >>> Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-20 16:49:35.513 >>> [main] >>> INFO  >>> com.yzl.springboot.SpringBoot03LoggingApplication >>> Started SpringBoot03LoggingApplication in 1.427 seconds (JVM running for 2.589)
+2020-04-20 16:56:11.492 >>> [main] >>> INFO  >>> o.s.boot.web.embedded.tomcat.TomcatWebServer >>> Tomcat initialized with port(s): 8080 (http)
+2020-04-20 16:56:11.501 >>> [main] >>> INFO  >>> org.apache.catalina.core.StandardService >>> Starting service [Tomcat]
+2020-04-20 16:56:11.501 >>> [main] >>> INFO  >>> org.apache.catalina.core.StandardEngine >>> Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-20 16:56:11.607 >>> [main] >>> INFO  >>> o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] >>> Initializing Spring embedded WebApplicationContext
+2020-04-20 16:56:11.608 >>> [main] >>> INFO  >>> org.springframework.web.context.ContextLoader >>> Root WebApplicationContext: initialization completed in 788 ms
+2020-04-20 16:56:11.731 >>> [main] >>> INFO  >>> o.s.scheduling.concurrent.ThreadPoolTaskExecutor >>> Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-20 16:56:11.856 >>> [main] >>> INFO  >>> o.s.boot.web.embedded.tomcat.TomcatWebServer >>> Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-20 16:56:32.802 >>> [main] >>> INFO  >>> o.s.boot.web.embedded.tomcat.TomcatWebServer >>> Tomcat initialized with port(s): 8080 (http)
+2020-04-20 16:56:32.811 >>> [main] >>> INFO  >>> org.apache.catalina.core.StandardService >>> Starting service [Tomcat]
+2020-04-20 16:56:32.811 >>> [main] >>> INFO  >>> org.apache.catalina.core.StandardEngine >>> Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-20 16:56:32.908 >>> [main] >>> INFO  >>> o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] >>> Initializing Spring embedded WebApplicationContext
+2020-04-20 16:56:32.908 >>> [main] >>> INFO  >>> org.springframework.web.context.ContextLoader >>> Root WebApplicationContext: initialization completed in 802 ms
+2020-04-20 16:56:33.040 >>> [main] >>> INFO  >>> o.s.scheduling.concurrent.ThreadPoolTaskExecutor >>> Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-20 16:56:33.170 >>> [main] >>> INFO  >>> o.s.boot.web.embedded.tomcat.TomcatWebServer >>> Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-20 16:56:51.798 >>> [main] >>> INFO  >>> com.yzl.springboot.SpringBoot03LoggingApplication >>> Starting SpringBoot03LoggingApplication on LAPTOP-NC69564O with PID 15436 (D:\java\java_code\spring_boot\spring-boot-03-logging\target\classes started by yaozhili in D:\java\java_code\spring_boot)
+2020-04-20 16:56:51.802 >>> [main] >>> INFO  >>> com.yzl.springboot.SpringBoot03LoggingApplication >>> No active profile set, falling back to default profiles: default
+2020-04-20 16:56:52.525 >>> [main] >>> INFO  >>> o.s.boot.web.embedded.tomcat.TomcatWebServer >>> Tomcat initialized with port(s): 8080 (http)
+2020-04-20 16:56:52.532 >>> [main] >>> INFO  >>> org.apache.catalina.core.StandardService >>> Starting service [Tomcat]
+2020-04-20 16:56:52.533 >>> [main] >>> INFO  >>> org.apache.catalina.core.StandardEngine >>> Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-20 16:56:52.633 >>> [main] >>> INFO  >>> o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] >>> Initializing Spring embedded WebApplicationContext
+2020-04-20 16:56:52.633 >>> [main] >>> INFO  >>> org.springframework.web.context.ContextLoader >>> Root WebApplicationContext: initialization completed in 789 ms
+2020-04-20 16:56:52.762 >>> [main] >>> INFO  >>> o.s.scheduling.concurrent.ThreadPoolTaskExecutor >>> Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-20 16:56:52.890 >>> [main] >>> INFO  >>> o.s.boot.web.embedded.tomcat.TomcatWebServer >>> Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-20 16:56:52.893 >>> [main] >>> INFO  >>> com.yzl.springboot.SpringBoot03LoggingApplication >>> Started SpringBoot03LoggingApplication in 1.417 seconds (JVM running for 2.389)

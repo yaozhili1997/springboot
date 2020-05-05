@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table border="1px">
+    <tr>
+        <th>编号:</th>
+        <th>姓名:</th>
+        <th>性别:</th>
+        <th>总的记录数:</th>
+        <th>偶数/奇数</th>
+        <th>第一个元素</th>
+        <th>最后一个元素</th>
+    </tr>
+    <!--th:each作用在哪个标签上，对应的就会根据它的迭代多少次-->
+    <tr th:each="user,iterStat :${userList}">
+        <td th:text="${iterStat.count}">111:</td>
+        <td th:text="${user.username}">111:</td>
+        <td th:text="${user.gender ==1?'女':'男'}">未知:</td>
+        <td th:text="${iterStat.size}"></td>
+        <td th:text="${iterStat.even ?'偶数':'奇数'}">111:</td>
+        <td th:text="${iterStat.first }">111:</td>
+        <td th:text="${iterStat.last }">111:</td>
+
+    </tr>
+</table>
+<ul>
+    <li th:each="user : ${userList}" th:text="${user.username}"></li>
+</ul>
+<div th:switch="${sex}">
+    <p th:case="1">女</p>
+    <p th:case="2">男</p>
+    <p th:case="*">未知</p>
+</div>
+<hr/>
+<!--th:if 如果值为true，则显示出该标签，否则不显示
+    ${#lists.isEmpty(userList)} true 说明userList是空
+    ${#lists.isEmpty(userList)} false 说明userList不是空的
+-->
+<h3 th:if="not ${#lists.isEmpty(userList)}">显示出来则userList集合不是空的</h3>
+<h3 th:unless="${#lists.isEmpty(userList)}">显示出来则userList集合不是空的</h3>
+<hr/>
+<div th:text="${desc}"></div>
+<!--不转义特殊字符，直接显示出一应该有的效果-->
+<div th:utext="${desc}"></div>
+<br/>
+<!--th:object获取${session.user}-->
+<div th:object="${session.user}">
+    <!--上面已经将对象获取出来了，下面直接写属性名即可获取到值-->
+    <p>姓名：<span th:text="*{username}"></span></p>
+    <p>性别：<span th:text="*{gender==1 ?'女':'男'}"></span></p>
+    <!--热部署快捷键Control+F9-->
+    <div>热部署测试</div>
+</div>
+</body>
+</html>
